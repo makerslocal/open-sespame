@@ -1,7 +1,4 @@
-# Open Sespme 
-[![Build Status](https://travis-ci.org/tylercrumpton/open-sespame.svg?branch=master)](https://travis-ci.org/tylercrumpton/open-sespame)
-
-ESP + PN532 + MQTT = door opening goodness
+This is an ESP8266-based controller for things that can be turned on and off. It's compatible with the [RQ](https://256.makerslocal.org/wiki/RQ) platform for automation.
 
 ### Build and Deploy
     pip install platformio
